@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 font-size: 2em; align="center">Hi 👋, I'm Yash Patel</h1>
+<h3 align="center">A Passionate Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
