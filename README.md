@@ -1,6 +1,9 @@
 <h1 style="font-size: 40px;" align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
+![yp](https://user-images.githubusercontent.com/68161473/130404817-55b5307c-1d87-4c7d-928a-86595a378ddb.gif)
+
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JS Frameworks**
