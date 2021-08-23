@@ -1,22 +1,16 @@
-### Hello World 👋
-I am a web developer from india
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
-<br>
-## Connect with me
-<div align="centre">
+<h1 align="center">Hi 👋, I'm Yash Patel</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yash%20Patel-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yash-patel-07/)](https://www.linkedin.com/in/yash-patel-07/) 
- 
-[![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/VedantKhairnar3)
- 
-[![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yashpatel4936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpatel4936" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-patel-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patel-07" height="30" width="40" /></a>
+<a href="https://instagram.com/patelyash_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patelyash_07" height="30" width="40" /></a>
+</p>
 
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar)-->
-<!--![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)-->
- </div>
 <br>
 <br>
 ## Expertise
