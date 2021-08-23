@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences at [https://www.linkedin.com/in/yash-patel-07/](https://www.linkedin.com/in/yash-patel-07/)
 
+![teamwork-cat-dog](https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47zups7bxuik10ic57i9e2wjbiulnp8srs4ul2yksu&rid=giphy.gif&ct=g)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashpatel4936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpatel4936" height="30" width="40" /></a>
