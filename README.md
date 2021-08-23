@@ -1,16 +1,14 @@
 ![yp](https://user-images.githubusercontent.com/68161473/130404817-55b5307c-1d87-4c7d-928a-86595a378ddb.gif)
 
-- 🔭 I’m currently working on **Web Development**
+ 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JS Frameworks**
+ 🌱 I’m currently learning **JS Frameworks**
 
-- 🤝 I’m looking for **Frontend Developer Internship**
+ 🤝 I’m looking for **Frontend Developer Internship**
 
-- 📫 Reach me at **yashpatel.cse@gmail.com**
+ 📫 Reach me at **yashpatel.cse@gmail.com**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/yash-patel-07/](https://www.linkedin.com/in/yash-patel-07/)
-
-![teamwork-cat-dog](https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47zups7bxuik10ic57i9e2wjbiulnp8srs4ul2yksu&rid=giphy.gif&ct=g)
+ 📄 Know about my experiences at [https://www.linkedin.com/in/yash-patel-07/](https://www.linkedin.com/in/yash-patel-07/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
