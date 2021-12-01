@@ -8,12 +8,12 @@
 
  📫 Reach me at **yashpatel.cse@gmail.com**
 
- 📄 Know about my experiences at [https://www.linkedin.com/in/yash-patel-07/](https://www.linkedin.com/in/yash-patel-07/)
+ 📄 Know about my experiences at [https://www.linkedin.com/in/yashpatel458/](https://www.linkedin.com/in/yashpatel458/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashpatel4936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpatel4936" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-patel-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patel-07" height="30" width="40" /></a>
+<a href="https://twitter.com/yashpatel458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpatel458" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashpatel458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel458" height="30" width="40" /></a>
 <a href="https://instagram.com/patelyash_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patelyash_07" height="30" width="40" /></a>
 </p>
 
