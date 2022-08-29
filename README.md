@@ -1,5 +1,8 @@
 ![Red and Black Graphic Dynamic Sports Football Team Banner](https://user-images.githubusercontent.com/68161473/130409384-21110a30-7e4d-4b5e-a2fb-1bd6319a0c93.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel458&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
+
+
  🔭 I’m currently working on **Web Development**
 
  🌱 I’m currently learning **JS Frameworks**
