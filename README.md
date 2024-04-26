@@ -5,11 +5,11 @@
 
  🔭 I’m currently working on **Web Development**
 
- 🌱 I’m currently learning **JS Frameworks**
+ 🌱 I’m currently learning **Frontend Frameworks**
 
  🤝 I’m looking for **Frontend Developer Internship**
 
- 📫 Reach me at **yashpatel.cse@gmail.com**
+ 📫 Reach me at **yashpatel.sde@gmail.com**
 
  📄 Know about my experiences at [https://www.linkedin.com/in/yashpatel458/](https://www.linkedin.com/in/yashpatel458/)
 
@@ -46,8 +46,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 
