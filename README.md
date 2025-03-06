@@ -6,7 +6,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashpatel458&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Software Development in Test**
+- 🌱 I’m currently learning **QA Test Automation**
 
 - 👨‍💻 All of my projects are available at [https://yashpatel.tech](https://yashpatel.tech)
 
